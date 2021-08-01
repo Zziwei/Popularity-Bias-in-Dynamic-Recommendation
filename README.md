@@ -22,7 +22,7 @@ To run the similation experiment with different settings, use the command 'pytho
 
 **Experiment_DScale**: based on Experiment_withoutPB, apply the proposed dynamic method DScale to debias.
 
-**Experiment_FPC**: based on Experiment_withoutPB, apply the proposed False Positive Correction FPC to debias.
+**Experiment_FPC**: based on Experiment_withoutPB, apply the proposed False Positive Correction FPC to debias.   
 **Experiment_FPC_DScale**: based on Experiment_withoutPB, apply the proposed FPC + DScale to debias.   
 
 
